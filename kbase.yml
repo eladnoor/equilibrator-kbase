@@ -2,7 +2,7 @@ module-name:
     equilibrator-api
 
 module-description:
-    A KBase module
+    A KBase module for the Component Contribution method (AKA eQuilibrator) 
 
 service-language:
     python
